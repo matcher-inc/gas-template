@@ -1,0 +1,27 @@
+{
+  "name": "gas-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "build:watch": "webpack --watch",
+    "push": "clasp push",
+    "push:watch": "clasp push --watch",
+    "deploy": "webpack && clasp push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/clasp": "^2.4.1",
+    "@types/google-apps-script": "^1.0.55",
+    "@types/node": "^18.7.18",
+    "cpx": "^1.5.0",
+    "gas-webpack-plugin": "^2.3.0",
+    "ts-loader": "^9.4.1",
+    "typescript": "^4.8.3",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
