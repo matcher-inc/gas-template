@@ -12,7 +12,12 @@ This is a MINIMUM template for GoogleAppsScript development with TypeScript.
 <img width="473" alt="matcher-inc_gas-template-sample__TypeScript___Webpack___Clasp_で_GAS_の開発を始められるテンプレート作ってみる試み" src="https://user-images.githubusercontent.com/78125846/192661673-6bc8dbc4-fd4c-4d02-ab74-c6808dbb31de.png">
 
 #### 2. Clone the repository
-```
+```bash
+git clone <Your template url> my-gas-project
+
+ or
+
+# If you don't want to use as template
 git clone https://github.com/matcher-inc/gas-template.git my-gas-project
 ```
 
