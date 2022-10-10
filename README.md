@@ -13,7 +13,7 @@ This is a MINIMUM template for GoogleAppsScript development with TypeScript.
 
 #### 2. Clone the repository
 ```
-git clone <url> my-gas-project
+git clone https://github.com/matcher-inc/gas-template.git my-gas-project
 ```
 
 #### 3. Move directory
